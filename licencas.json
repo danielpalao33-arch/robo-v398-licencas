@@ -1,0 +1,14 @@
+{
+  "amigo01": {
+    "status": "ativo",
+    "vencimento": "2026-11-28"
+  },
+  "amigo02": {
+    "status": "bloqueado",
+    "vencimento": "2026-11-28"
+  },
+  "amigo03": {
+    "status": "ativo",
+    "vencimento": "2026-12-28"
+  }
+}
